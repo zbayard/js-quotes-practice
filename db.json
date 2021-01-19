@@ -2,18 +2,8 @@
   "quotes": [
     {
       "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
-      "id": 2,
-      "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
-    },
-    {
-      "id": 3,
-      "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
-      "author": "Alok Vaid Menon"
+      "quote": "Hi",
+      "author": "Zach"
     },
     {
       "id": 4,
@@ -54,6 +44,16 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "I am so cool",
+      "author": "Zach",
+      "id": 17
+    },
+    {
+      "quote": "Party like a rockstar",
+      "author": "Ori",
+      "id": 18
     }
   ],
   "likes": [
@@ -66,6 +66,110 @@
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "likes": 1,
+      "id": 3
+    },
+    {
+      "likes": 1,
+      "quoteId": 7,
+      "id": 5
+    },
+    {
+      "likes": 2,
+      "quoteId": 7,
+      "id": 6
+    },
+    {
+      "likes": 3,
+      "quoteId": 7,
+      "id": 7
+    },
+    {
+      "likes": 4,
+      "quoteId": 7,
+      "id": 8
+    },
+    {
+      "likes": 5,
+      "quoteId": 7,
+      "id": 9
+    },
+    {
+      "likes": 1,
+      "quoteId": 8,
+      "id": 10
+    },
+    {
+      "likes": 2,
+      "quoteId": 1,
+      "id": 20
+    },
+    {
+      "likes": 3,
+      "quoteId": 1,
+      "id": 21
+    },
+    {
+      "likes": 4,
+      "quoteId": 1,
+      "id": 22
+    },
+    {
+      "likes": 5,
+      "quoteId": 1,
+      "id": 23
+    },
+    {
+      "likes": 1,
+      "quoteId": 17,
+      "id": 24
+    },
+    {
+      "likes": 2,
+      "quoteId": 17,
+      "id": 25
+    },
+    {
+      "likes": 3,
+      "quoteId": 17,
+      "id": 26
+    },
+    {
+      "likes": 4,
+      "quoteId": 17,
+      "id": 27
+    },
+    {
+      "likes": 5,
+      "quoteId": 17,
+      "id": 28
+    },
+    {
+      "likes": 1,
+      "quoteId": 18,
+      "id": 29
+    },
+    {
+      "likes": 2,
+      "quoteId": 18,
+      "id": 30
+    },
+    {
+      "likes": 3,
+      "quoteId": 18,
+      "id": 31
+    },
+    {
+      "likes": 4,
+      "quoteId": 18,
+      "id": 32
+    },
+    {
+      "likes": 5,
+      "quoteId": 18,
+      "id": 33
     }
   ]
 }
